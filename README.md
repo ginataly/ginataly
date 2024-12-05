@@ -3,7 +3,7 @@
 
 👩‍💻 Estagiária de Sistemas na Brasil Terminal Portuário.
 
-🧩 **C#**, **TypeScript**, **CSS**, **HTML**, **Angular**
+🧩 **C#**, **TypeScript**, **CSS**, **HTML**, **Angular**, **JavaScript**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ginataly/) 
 
