@@ -1,16 +1,12 @@
 # **Giovanna Nataly** 🌟
 
-🧪 **Engenheira Química** 
 
-🚀 Iniciando minha jornada na programação!
+👩‍💻 Estagiária de Sistemas na Brasil Terminal Portuário.
 
-🖥️ Atualmente estudando **Análise e Desenvolvimento de Sistemas** e realizando cursos da **Alura**.
-
-🧩 Familiarizada com **HTML**, **CSS**, e **JavaScript**.
+🧩 **C#**, **TypeScript**, **CSS**, **HTML**, **Angular**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ginataly/) 
 
-👩‍💻 Aberta a oportunidades para evoluir ainda mais! 📱 *(13) 99179-8978*.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginataly&layout=compact&theme=radical)
